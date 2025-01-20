@@ -1,0 +1,46 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.canvas{
+    height: 100vh;
+}
+
+.main{
+    display: flex;
+    height: 80%;
+}
+h1{
+    padding-left: 40%;
+    padding-top: 5%;
+    color:black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.box{
+    height: 20%;
+    width: 8%;
+    border:5px solid black;
+    position: relative;
+    top: 25%;
+    left: 30%;
+    margin-left: 5px;
+}
+
+#grey{
+    background-color: grey;
+}
+#white{
+    background-color: white;
+}
+#blue{
+    background-color: blue;
+}
+#yellow{
+    background-color: yellow;
+}
+
+h2{
+    margin-left: 2%;
+    margin-top: 2%;
+}
